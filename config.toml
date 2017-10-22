@@ -1,0 +1,63 @@
+baseurl             = "https://jyleong.ai/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = docs
+theme               = "cocoa-hugo-theme"
+author              = "James Leong"
+title               = "James Leong"
+pygmentsuseclasses  = true
+pluralizelisttitles = false
+
+[permalinks]
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
+
+[[menu.main]]
+name                   = "Code"
+weight                 = -100
+identifier             = "code"
+url                    = "/code/"
+
+[[menu.main]]
+name                   = "Resume"
+weight                 = -100
+identifier             = "resume"
+url                    = "/resume/"
+
+[params]
+latestpostscount       = 5                             # how many posts to display on the home page
+i18n_flags             = false                         # whether to display small country flags for available translations
+author                 = "James Leong"
+cachebuster            = true                          # add the current unix timestamp in query string for cache busting css assets
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+description            = "Don't panic"
+email                  = "james.leong94@gmail.com"
+extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
+faviconfile            = "img/leaf.ico"
+github                 = "//github.com/jyleong"
+facebook               = "facebook.com"
+highlightjs            = true
+lang                   = "en"
+linkedin               = "//linkedin.com/in/james-leong-b30236ab"
+noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
+selfintro              = "Goal Reacher"                            
+# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
+# highlightjsStyle     = "darcula"
+                         # Id of your site in Piwik
+
+avatar                 = "img/profile.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
