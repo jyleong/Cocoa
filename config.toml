@@ -1,10 +1,10 @@
-baseurl             = "https://jyleong.ai/"
+baseurl             = "/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
-publishdir          = docs
+publishDir          = "docs"
 theme               = "cocoa-hugo-theme"
 author              = "James Leong"
 title               = "James Leong"
