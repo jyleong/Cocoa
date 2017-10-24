@@ -1,12 +1,12 @@
 +++
-date = "2015-08-25T17:09:14-05:00"
+date = "2017-10-23T20:31:17-07:00"
 draft = false
 title = "Use @ instead of HEAD"
 slug = 'use-at-instead-of-head'
-
 +++
 
-I recently discovered that from git version [1.8.5](https://github.com/git/git/blob/master/Documentation/RelNotes/1.8.5.txt#L100) onwards, `@` can replace `HEAD`: 
+
+I recently discovered from the hugo site I was copy pasting from... :P that from git version [1.8.5](https://github.com/git/git/blob/master/Documentation/RelNotes/1.8.5.txt#L100) onwards, `@` can replace `HEAD`: 
 
 ```bash
 $ git reset --hard @~2

@@ -15,12 +15,6 @@ pluralizelisttitles = false
 blog  = "blog/:slug/"
 
 [[menu.main]]
-name                   = "About"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
-
-[[menu.main]]
 name                   = "Blog"
 weight                 = -120
 identifier             = "blog"
@@ -33,10 +27,10 @@ identifier             = "code"
 url                    = "/code/"
 
 [[menu.main]]
-name                   = "Resume"
-weight                 = -100
-identifier             = "resume"
-url                    = "/resume/"
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
 
 [params]
 latestpostscount       = 5                             # how many posts to display on the home page
