@@ -9,3 +9,6 @@
 	path = docs/jyleong.github.io
 	url = git@github.com:jyleong/jyleong.github.io.git
 	branch = master
+[submodule "themes/cocoa-hugo-theme"]
+	path = themes/cocoa-hugo-theme
+	url = git@github.com:nishanths/cocoa-hugo-theme.git

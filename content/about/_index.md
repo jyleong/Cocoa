@@ -8,7 +8,7 @@ title = "About"
 Hello, welcome to my site. 
 I'm an experienced Software Engineer with a Bachelor's degree in Computer Science from [SFU](https://www.sfu.ca/computing.html)
 
-Besides being a code monkey, I am an adventurous, athletic, goal oriented individual, that applies 110% of my effort to anything that I see important.
+Besides being a code monkey, I am an adventurous, athletic, goal oriented individual, who applies 110% of my effort to anything that I see important.
 
 ### Interests and Hobbies
 * Hacking
