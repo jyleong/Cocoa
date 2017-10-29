@@ -11,6 +11,7 @@ title               = "James Leong"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-108861984-1"
+disqusshortname     = "jyleong-github-io"
 
 [permalinks]
 blog  = "blog/:slug/"
