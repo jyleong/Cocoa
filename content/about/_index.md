@@ -10,6 +10,8 @@ I'm an experienced Software Engineer with a Bachelor's degree in Computer Scienc
 
 Besides being a code monkey, I am an adventurous, athletic, goal oriented individual, who applies 110% of my effort to anything that I see important.
 
+Here is a look at my Resume/CV [here]({{< ref "resume.md" >}})
+
 ### Interests and Hobbies
 * Hacking
 * Weight training
@@ -27,7 +29,7 @@ what I believe is most important:
 
 ### What I'm currently doing right now:
 * Taking personal responsibility for myself, including my nutrition, mental health and goals
-* Taking care of my finances, saving for my first car and down payment
+* Taking care of my finances, ~~saving for my first car and down payment~~
 * Building closer personal relationships with my friends and family. I would do this by setting frequent and consistent times with the people who I want to hang out with.
 * Improving on my social, communication skills, I want to be more approachable, carry a conversation well, and be at a point where anyone can be open to talk to me about anything
 * Martial arts, I do kickboxing and Tae Kwon Do. After a long hiatus I want to pick them back up, with the goal of getting my black belt in Tae Kwon Do. I attend and practice this daily.
