@@ -47,6 +47,8 @@ application showing fleet and driver behaviour of
 * Planned requirements and specifications with stakeholders, providing clarification and scope of mobile app, leading to the design and implementation of the official SFU iOS App
 * Manual Tested on physical device ensuring quality and delivery of product
 
+[iOS App](https://itunes.apple.com/ca/app/simon-fraser-university-official/id1033432123?mt=8)
+
 ### Projects and Courses
 
 #### VoiceNotes, VoiceMinder - Personal Project &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept 2017 - July 2018
