@@ -26,15 +26,15 @@ Systems, AI, Web development, Requirements Engineering, Human Computer Interacti
 
 * Created, fixed, maintained features with React, Redux, TypeScript, MSSQL Server of an
 application showing fleet and driver behaviour of
-* Demonstrated proof of concept ETL process leading applications on a new telematics platform
+* Demonstrated proof of concept data pipeline and ETL process leading company to new direction to migrate applications onto the cloud
 * Added user analytics framework into product line providing customer insights for product design team to make informative feature decisions
 * Extended database stored procedures to process and summarize IoT records to read in data from new device providers leading to better app integration for new customers
 
-#### Junior SW Dev/SDET Co-op - Neurio Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Dec 2016 - Sept 2017
+#### Junior SW Dev/SDET Co-op - Neurio Technologies &emsp;&emsp;&emsp;&emsp;&emsp; Dec 2016 - Sept 2017
 
-* Designed, built and integrated CI/CD pipeline on AWS Code Pipeline to build, test and release current product Web app and REST API increasing test coverage to 70%
+* Designed, built and integrated CI/CD pipeline on AWS Code Pipeline to build, test and release current front end and REST API increasing test coverage to 70%
 * Built a Flask web application as a testing infrastructure to schedule, compile, execute, measure and log builds to test the results of the new software product
-* Created sensor simulation tool to simulate real appliance energy data with Java and automating it to provide reliable data for analytics developers
+* Created sensor simulation tool to simulate real appliance energy consumption with Java and automating it to provide reliable data for analytics developers
 * Extended and refactored Python/Java/Jenkins automation framework on Scala REST API, speeding up, making the CI pipeline dynamic and more robust for coverage
 
 #### Software Test Engineer Co-op - Schneider Electric &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sept 2015 - Apr 2016
