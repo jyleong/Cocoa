@@ -8,9 +8,8 @@ draft = false
 ### Technical Proficiencies:
 
 * __Languages__: Java, JavaScript/TypeScript, Python, Ruby, SQL, Bash
-* __Software__: VSCode, IntelliJ, PyCharm, Sublime, MSSqlServer, Jenkins, Docker, Github, GitLab
-* __Frameworks__: ReactJS, Flask, NodeJS, NestJS, Rails
-* __Cloud Computing__: AWS, GCP
+* __Software__: VSCode, IntelliJ, PyCharm, Git (Github, GitLab), MySQL, MSSQL, Jenkins, Docker, AWS, GCP
+* __Frameworks__: ReactJS, Flask, NodeJS, NestJS, Ruby on Rails
 
 <hr/>
 ### Industy Experience:
@@ -18,19 +17,18 @@ draft = false
 __BSM Technologies__
 #### Full Stack Developer | Burnaby, BC | Jan 2018 - Present
 
-* Created, fixed, maintained features with React, Redux, TypeScript, MSSQL Server of an
-application showing fleet and driver behaviour of
-* Demonstrated proof of concept data pipeline and ETL process leading company to new direction to migrate applications onto the cloud
-* Added user analytics framework into product line providing customer insights for product design team to make informative feature decisions
+* Product-focused developer using ReactJS, NodeJS, TypeScript and MSSqlServer to build the analytics dashboard for the fleet tracking industry, allowing fleet managers’ knowledge and context of their data
+* Demonstrated proof of concept data pipeline and Extract, Transform, Load process influencing company to migrate applications and infrastructure onto the cloud
+* Integrated user analytics to existing applications, providing product design team with customer insight to make informative feature decisions
 * Extended database stored procedures to process and summarize IoT records to read in data from new device providers leading to better app integration for new customers
 
 __Neurio Technologies__
 #### Junior SW Dev/SDET Co-op | Vancouver, BC |  Dec 2016 - Sept 2017
 
-* Designed, built and integrated CI/CD pipeline on AWS Code Pipeline to build, test and release current front end and REST API increasing test coverage to 70%
-* Built a Flask web application as a testing infrastructure to schedule, compile, execute, measure and log builds to test the results of the new software product
+* Designed, built and integrated CI/CD with AWS Code Pipeline to build, test and release current front end and REST API increasing test coverage to 70%
+* Built a Flask web application as a testing infrastructure to schedule, compile, execute, measure and log builds to test the results of their new storage optimization analytics software
 * Created sensor simulation tool to simulate real appliance energy consumption with Java and automating it to provide reliable data for analytics developers
-* Extended and refactored Python/Java/Jenkins automation framework on Scala REST API, speeding up, making the CI pipeline dynamic and more robust for coverage
+* Extended and refactored Python/Java/Jenkins automation framework on Scala REST API, streamlining the CI pipeline and providing more robust coverage
 
 __Schneider Electric__
 #### Software Test Engineer Co-op | Burnaby, BC | Sept 2015 - Apr 2016
@@ -69,7 +67,6 @@ __Soulcast.ml__
 
 __GameVesters__
 #### CMPT 470 | Social trading Web App | Sept 2016 - Dec 2016
-
 
 * Developed full CRUD application with Ruby on Rails within a month of implementation time, requiring strict organization skills and initiative to learn
 * Set up entire integrated environment using vagrant and chef to ensure team can develop in a clean environment for testing, development and production mode
