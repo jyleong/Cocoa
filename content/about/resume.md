@@ -7,15 +7,21 @@ draft = false
 
 ### Technical Proficiencies:
 
-* __Languages__: Java, JavaScript/TypeScript, Python, Ruby, SQL, Bash
+* __Languages__: Java, JavaScript/TypeScript, Python, SQL, Bash
 * __Software__: VSCode, IntelliJ, PyCharm, Git (Github, GitLab), MySQL, MSSQL, Jenkins, Docker, AWS, GCP
-* __Frameworks__: ReactJS, Flask, NodeJS, NestJS, Ruby on Rails
+* __Frameworks__: ReactJS, VueJS, Flask, Django, NodeJS, NestJS
 
 <hr/>
 ### Industy Experience:
 
+__Dialpad__
+#### Software Engineer | Vancouver, BC | Aug 2019 - Present
+* Feature-oriented engineer creating and integrating telephony/Enterprise VoIP features over desk phone hardware to provide feature parity for customers moving to Dialpad as a telecommunications service provider
+* Extracted call statistics from hardware into Google Datastore and BigQuery for analytics, providing users and administrators insights over calling behaviour
+* Upgraded legacy desktop software and created tools to monitor, diagnose and triage future unknown dependencies around interlinked software components
+
 __BSM Technologies__
-#### Full Stack Developer | Burnaby, BC | Jan 2018 - Present
+#### Full Stack Developer | Burnaby, BC | Jan 2018 - Aug 2019
 
 * Product-focused developer using ReactJS, NodeJS, TypeScript and MSSqlServer to build the analytics dashboard for the fleet tracking industry, allowing fleet managers’ knowledge and context of their data
 * Demonstrated proof of concept data pipeline and Extract, Transform, Load process influencing company to migrate applications and infrastructure onto the cloud
