@@ -16,15 +16,15 @@ draft = false
 
 __Dialpad__
 #### Software Engineer | Vancouver, BC | Aug 2019 - Present
-* Feature-oriented engineer creating and integrating telephony/Enterprise VoIP features over desk phone hardware to provide feature parity for customers moving to Dialpad as a telecommunications service provider
+* Feature-oriented engineer creating and integrating telephony/Enterprise VoIP features over desk phone hardware to provide feature parity for customers using Dialpad as a telecommunications service provider
 * Extracted call statistics from hardware into Google Datastore and BigQuery for analytics, providing users and administrators insights over calling behaviour
 * Upgraded legacy desktop software and created tools to monitor, diagnose and triage future unknown dependencies around interlinked software components
 
 __BSM Technologies__
 #### Full Stack Developer | Burnaby, BC | Jan 2018 - Aug 2019
 
-* Product-focused developer using ReactJS, NodeJS, TypeScript and MSSqlServer to build the analytics dashboard for the fleet tracking industry, allowing fleet managers’ knowledge and context of their data
-* Demonstrated proof of concept data pipeline and Extract, Transform, Load process influencing company to migrate applications and infrastructure onto the cloud
+* Product-focused developer; used ReactJS, NodeJS, TypeScript and MSSqlServer to build the analytics dashboard for the fleet tracking industry, allowing fleet managers’ knowledge and context of their data
+* Demonstrated proof of concept data pipeline and Extract, Transform, Load process, which influenced company to migrate applications and infrastructure onto the cloud
 * Integrated user analytics to existing applications, providing product design team with customer insight to make informative feature decisions
 * Extended database stored procedures to process and summarize IoT records to read in data from new device providers leading to better app integration for new customers
 
