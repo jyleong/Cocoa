@@ -5,7 +5,7 @@ title = "About"
 
 +++
 
-__f you came here to verify my work experience here is my [Resume/CV]({{< ref "resume.md" >}})__
+__If you came here to verify my work experience here is my [Resume/CV]({{< ref "resume.md" >}})__
 
 This space on the internet is owned by James. Hi there, the intent of the blog is to track my personal progress through each important dimension of my life: **Health, Friends/Familial Relationships, Career, Hobbies, Habits, Meaning and fulfillment.**
 

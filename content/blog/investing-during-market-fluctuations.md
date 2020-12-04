@@ -8,7 +8,7 @@ _\* In case you didn't know or are reading this blogpost from the future, curren
 In the past two weeks from February 24 - March 6 the economy has taken a hit. The stock market fluctuates almost as if it were like Bitcoin!
 
 Here is a snapshot of the S&P index over the past month:  
-![](images/Screen-Shot-2020-03-08-at-11.29.31-AM.png)
+![S&P](/blog/images/Screen-Shot-2020-03-08-at-11.29.31-AM.png)
 
 In all fairness the stock market is unpredictable. The steep sudden drop very much was felt throughout the public as last week it felt like people were preparing for the [apocalypse](https://www.bbc.com/worklife/article/20200304-coronavirus-covid-19-update-why-people-are-stockpiling). However don't be alarmed, we are finally due for a market correction.
 

@@ -9,7 +9,7 @@ In midst of a pandemic which pricked the stock market bubble to finally correct 
 
 ##### Enough of that let's see the graph:
 
-![](images/investment_snapshot.png)
+![Investment Snapshot](/blog/images/investment_snapshot.png)
 
 Actual numbers removed for ahem privacy
 

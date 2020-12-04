@@ -51,7 +51,7 @@ highlightjs            = true
 lang                   = "en"
 linkedin               = "//linkedin.com/in/james-leong-b30236ab"
 noshowreadtime         = false                         # if true, don't show "<x> minutes read" in posts
-selfintro              = "Software Engineer | Yappie | Challenge Seeker "                            
+selfintro              = "Software Engineer | Stoic | Essentialist "                            
 # highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
 # highlightjsStyle     = "darcula"
                          # Id of your site in Piwik

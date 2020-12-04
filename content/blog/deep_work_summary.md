@@ -3,9 +3,7 @@ title: "\"Deep Work\" (Book Summary and thoughts)"
 date: "2020-02-09"
 ---
 
-![](images/deep_work_cover.jpg)
-
-Book Cover
+![Book Cover](/blog/images/deep_work_cover.jpg)
 
 _**"[Deep Work](https://www.amazon.ca/Deep-Work-Focused-Success-Distracted/dp/1455586692): Rules for Focused Success in a Distracted World” by Cal Newport (Summary and thoughts)**_
 
